@@ -1,0 +1,15 @@
+C:\Users\korsh\Desktop\FinalTask\finalCode\bin\Debug\net8.0\finalCode.exe
+C:\Users\korsh\Desktop\FinalTask\finalCode\bin\Debug\net8.0\finalCode.deps.json
+C:\Users\korsh\Desktop\FinalTask\finalCode\bin\Debug\net8.0\finalCode.runtimeconfig.json
+C:\Users\korsh\Desktop\FinalTask\finalCode\bin\Debug\net8.0\finalCode.dll
+C:\Users\korsh\Desktop\FinalTask\finalCode\bin\Debug\net8.0\finalCode.pdb
+C:\Users\korsh\Desktop\FinalTask\finalCode\obj\Debug\net8.0\finalCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korsh\Desktop\FinalTask\finalCode\obj\Debug\net8.0\finalCode.AssemblyInfoInputs.cache
+C:\Users\korsh\Desktop\FinalTask\finalCode\obj\Debug\net8.0\finalCode.AssemblyInfo.cs
+C:\Users\korsh\Desktop\FinalTask\finalCode\obj\Debug\net8.0\finalCode.csproj.CoreCompileInputs.cache
+C:\Users\korsh\Desktop\FinalTask\finalCode\obj\Debug\net8.0\finalCode.sourcelink.json
+C:\Users\korsh\Desktop\FinalTask\finalCode\obj\Debug\net8.0\finalCode.dll
+C:\Users\korsh\Desktop\FinalTask\finalCode\obj\Debug\net8.0\refint\finalCode.dll
+C:\Users\korsh\Desktop\FinalTask\finalCode\obj\Debug\net8.0\finalCode.pdb
+C:\Users\korsh\Desktop\FinalTask\finalCode\obj\Debug\net8.0\finalCode.genruntimeconfig.cache
+C:\Users\korsh\Desktop\FinalTask\finalCode\obj\Debug\net8.0\ref\finalCode.dll
